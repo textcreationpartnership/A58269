@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly to be offered by the weavers and makers of stuffs called worsteads and other stuffs, made in the County of Norfolk and City of Norwich where they should be discharged from paying the duty of subsidy or aulnage demanded of them for such stuffs</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58269</idno>
+            <idno type="STC">Wing R569A</idno>
+            <idno type="STC">ESTC R5829</idno>
+            <idno type="EEBO-CITATION">11893629</idno>
+            <idno type="OCLC">ocm 11893629</idno>
+            <idno type="VID">50485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50485)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 507:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly to be offered by the weavers and makers of stuffs called worsteads and other stuffs, made in the County of Norfolk and City of Norwich where they should be discharged from paying the duty of subsidy or aulnage demanded of them for such stuffs</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50485:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>REASONS Humbly to be Offered by <hi>The Weavers and Makes of Stuffs,</hi> CALLED, Worſteads and other Stuffs, made in the County of <hi>Norfolk</hi> and City of <hi>Norwich,</hi> Why they ſhould be Diſcharged From Paying the Duty of Subſidy or Aulnage demanded of them for ſuch Stuffs.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the making of Worſteads in <hi>Norwich</hi> and <hi>Norfolk,</hi> is an ancient Manufacture, and hath been there uſed time out of mind,<note place="margin">Ex bundell. eſcaet. <hi>1 Ed. 3.</hi> mi. <hi>47.</hi>
+               </note> and thereby many Thouſand Inhabitants of the ſaid places maintained and kept at work; and before the time of King <hi>Edward</hi> the Third an Aſſize of the length and breadth thereof was affixed.</p>
+            <p>That the ancient Revenue of the Crown of <hi>England</hi> was 6 <hi>s.</hi> 8 <hi>d.</hi> on every Sack of Wool tranſpor<g ref="char:EOLhyphen"/>ted, which was granted by Parliament.</p>
+            <p>Afterwards,<note place="margin">14 Ed. 1. Co. <hi>Inſt.</hi> 4 <hi>part. fol.</hi> 280.</note> in proceſs of time, divers Cloath-workers ſet up the Trade of making Cloaths in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by reaſon whereof the <hi>Engliſh</hi> Wool was wrought up here, and an Officer was appointed by Patent to meaſure the ſaid Cloaths, with a Fee for his pains: And the Crown having then no Cu<g ref="char:EOLhyphen"/>ſtoms upon Cloaths or other Goods exported (as they now have) the King's ancient Revenue of 6 <hi>s.</hi> 8 <hi>d.</hi> on every Sack of Wool, was thereby diminiſhed.</p>
+            <p>Thereupon in <hi>Anno</hi> 24 <hi>Edw.</hi> 3. a Subſidy was by Parliament granted to be paid to the King,<note place="margin">Vid. in Treſ<g ref="char:EOLhyphen"/>rem. offic. <hi>24 Ed. 3.</hi>
+               </note>
+               <hi>viz.</hi> 1 <hi>s.</hi> 2 <hi>d.</hi> on a Cloath of Scarlet, <hi>&amp;c.</hi> and on a Worſtead 1 <hi>d.</hi> which makes a diſtinction between Cloaths and Worſteads.</p>
+            <p>In <hi>Anno</hi> 25 <hi>Edw.</hi> 3. an Act was made for the Aſſize of Cloaths; and if any was made leſs than the Aſſize, the ſame to be for<g ref="char:EOLhyphen"/>feited: Theſe Forfeitures being grievous to the People, in <hi>Anno</hi> 27 <hi>Edw.</hi> 3. the King releaſeth the Forfeitures of 25 <hi>Edw.</hi> 3. In conſideration thereof, the Parliament, over and beſides the Cuſtoms formerly due, which was that by <hi>Anno</hi> 24 <hi>Edw.</hi> 3. granted to the King a Subſidy of 4 <hi>d.</hi> of every Cloath of Aſſize, 2 <hi>d.</hi> on a half Cloath, and none under half a Cloath to pay any thing.</p>
+            <p>But in this Act of 27 <hi>Edw.</hi> 3. nor in that Act of 25 <hi>Edw.</hi> 3. any mention is made of Worſteads; which was then an ancient Manufacture made in <hi>Norfolk</hi> and <hi>Norwich,</hi> and taken notice of in 24 <hi>Edw.</hi> 3. diſtinct from Cloath, and a particular Duty ſet on exportation thereof by it ſelf. <hi>viz.</hi> 1 <hi>d.</hi> a niece and Cloath 1. <hi>s.</hi> 2. <hi>d.</hi> a piece, ſo as if Worſteads had been intended to have been within the compaſs of this Act of 27 <hi>Edw.</hi> 3. they would have been diſtinctly named, as in 24 <hi>Edw.</hi> 3. and not put under the ge<g ref="char:EOLhyphen"/>neral name of Cloath.</p>
+            <p>Notwithſtanding the grant of the Office of Aulnager in 14 <hi>Edw.</hi> 1. of Cloaths,<note place="margin">Co. <hi>Inſt.</hi> 2 <hi>par.</hi> 534.</note> in 22 <hi>Edw.</hi> 3. there was a particular Patent made to one <hi>Pooley</hi> of the Office of meaſuring of <hi>Norwich</hi> Worſteads, with a Fee; which at a Petition of the Commons, 25 <hi>Edw.</hi> 3. was declared to be, and was made void and null.</p>
+            <p>In <hi>Anno</hi> 11 <hi>Hen.</hi> 4. upon Petition of the Weavers in <hi>Norwich</hi> and <hi>Norfolk,</hi> to the then Parliament, there was granted to the Mayor. <hi>&amp;c.</hi> of <hi>Norwich,</hi> power to ſearch and ſeal <hi>Norwich</hi> Stuffs for a time. But that Act mentions not any thing of a Subſidy.</p>
+            <p>In <hi>Anno</hi> 7 <hi>Edw.</hi> 4. the Weavers of <hi>Norwich</hi> and <hi>Norfolk</hi> were put under a Regulation, and Wardens appointed to be yearly choſen and ſworn to ſearch and meaſure <hi>Norwich</hi> Worſteads, and no mention made of ſaving the Aulnagers Fee, or Duty of Sub<g ref="char:EOLhyphen"/>ſidy.</p>
+            <p>And from the time of the Revocation of <hi>Pooley</hi>'s Patent in 22 <hi>Edw.</hi> 3. till the beginning of King <hi>James</hi> the Firſt his Reign, no Subſidy or Aulnage was demanded for <hi>Norwich</hi> Stuffs.</p>
+            <p>But about that time <hi>Delves</hi> and <hi>Fitzwilliams</hi> having gotten a Patent of New Drapery,<note place="margin">
+                  <hi>Co.</hi> Inſt. <hi>2</hi> par. fol. <hi>62.</hi>
+               </note> gave ſome trouble to the Weavers; whereupon 2 <hi>Jac.</hi> queſtions ariſing thereabout, the buſineſs was referred by the King to all the Judges of <hi>England,</hi> who certified the King there was never any Aulnage of <hi>Norwich</hi> Stuffs.</p>
+            <p>Notwithſtanding this Reſolution of the Judges, the then Duke of <hi>Lenox</hi> got a Patent from the King of the Subſidy and Aul<g ref="char:EOLhyphen"/>nage of Cloaths and new Draperies, under which the pretended <hi>Norwich</hi> Stuffs to be comprehended, and gave new diſturbance to the Weavers, which occaſioned ſeveral Suits, in many of which the Weavers prevailed; but the power of the ſaid Duke in thoſe times ſo far prevailed by his ſending Purſevants and other hard Uſages, that the Weavers were compelled for ſome time to pay the ſaid Duty; but about the year 1640. the payment thereof ceaſed, and the Weavers were quiet till the year 1668, when the then Duke of <hi>Lenox</hi> preferred his Bill in Parliament to have the ſaid Duty ſetled; which was rejected in the Commons Houſe: from which time, till about the year 1680, the Weavers were quiet; but then one Mr. <hi>Canham</hi> having obtained to be Aulnager in <hi>Norfolk,</hi> did, again ſet the Claim of foot, and by taking great Diſtreſſes, and by ſeveral Orders in the Exchequer, compell'd the Weavers to pay the ſaid Duty of Subſidy to him.</p>
+            <p>Which Orders and Proceedings of the ſaid Court of Exchequer are ſo extraordinary, being of a different and mixed nature, in part legal, and in part equitable, that no Writ of Error can be brought thereupon, there being no Judgment in Law paſſed, nor can any Appeal be brought, for that the Proceedings are not entirely in Equity, but partly in a legal courſe. Whereby the ſaid Weavers, although they are joyntly charged with the payment of the ſaid Duties of Subſidy and Aulnage, yet are deſtitute of any Courſe of Law, whereby to obtain their Relief, but muſt ſubmit to the burthen theoreof; which will in great meaſure deſtroy that ancient Manufacture of Worſted-Stuffs, which hath been time out of mind exerciſed within the ſaid City of <hi>Norwich</hi> and County Court of Parliament, where Grievances of this nature, which are above the reach of any ordinary Court of Juſtice to relieve, are only and properly cognizable, and to be redreſſed.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
